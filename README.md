@@ -1,4 +1,4 @@
 Various Timetrap Formatter Classes
 ==================================
 
-My own Collection of (Timetrap)[https://github.com/muflax/timetrap] formatter classes.
+My own Collection of https://github.com/muflax/timetrap formatter classes.
